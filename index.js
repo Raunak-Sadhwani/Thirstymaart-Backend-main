@@ -24,4 +24,3 @@ app.use('/api/search', require('./routes/searchRoute'));
 app.listen(PORT, () => {
   console.log("Server listening on port", PORT);
 });
-/* 
